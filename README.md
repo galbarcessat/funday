@@ -90,28 +90,28 @@ All of the user's boards. Here, in addition to create a board with the empty boa
 ### Board
 All the functionality that you have in Monday. D&D, live-updates, editing tasks to the deepest level, side-menu, editing board members and much more - just [check it out...!](https://skello-deploy.onrender.com "Skello link")
 
-![Main board image](frontend/src/assets/imgs/readme/board-main.png "Board-main-page")
+![Main board image](/src/assets/img/FundayBoard.png "Board-main-page")
 
 ### Signup
 We created an e2e authentication flow, including encrypting the users' details, middlewears.
 
-![Login image](frontend/src/assets/imgs/readme/login.png "login-page")
+![Login image](/src/assets/img/FundayLogin.png "login-page")
 
 ### Task details
 Here the user can edit their tasks and to watch it happens live, in this page and behind. Every button on the right menu opens an dynamic modal which fits the content accordingly to the pressed button.
 
-![Task details image](frontend/src/assets/imgs/readme/details.png "task-details")
+![Task details image](/src/assets/img/FundayTaskDetails.png "task-details")
 
 
-### Side menu
+### Kanban view
 The menu on the right which is opened by the pressing the "Show menu" button enables the user to filter members by labels / name, change the board background with unsplash Images, watch the archived tasks (and bring it back to the board) and watch the activity of the board (who did what and when, and to navigate to those tasks).
 
-![Sidemenu image](frontend/src/assets/imgs/readme/sidemenu.png "side-menu-image")
+![Kanban view image](/src/assets/img/FundayTaskDetails.png "kanban-details")
 
 ### Some mobile!
 Just a taste of the mobile experience. We used different **mixins** and **conditional rendering**. 
 
 ### Authors
- - [Gal Ben Natan](https://github.com/OriBenAmram)
- - [Nati Feldbaum](https://github.com/DanielShaked)
- - [Omer Vered](https://github.com/yuvalshai95)
+ - [Gal Ben Natan](https://github.com/galbarcessat)
+ - [Nati Feldbaum](https://github.com/omervered)
+ - [Omer Vered](https://github.com/jinja-ninja)
